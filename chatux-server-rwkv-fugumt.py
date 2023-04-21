@@ -24,7 +24,7 @@ args = types.SimpleNamespace()
 
 # specify chat server
 HOST = 'localhost'
-PORT = 8002
+PORT = 8001
 URL = f'http://{HOST}:{PORT}'
 
 # specify RWKV strategy,model(weight data)
